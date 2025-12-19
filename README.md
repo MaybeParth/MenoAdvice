@@ -1,4 +1,4 @@
-# MenoAdvice 🌸
+# MenoAdvice 
 
 **MenoAdvice** is a premium, AI-powered women's health companion designed to support and guide users through the various stages of menopause.
 
